@@ -1,19 +1,4 @@
-/*============================================================================================================
-										    ____  ____  ___________________  _   __
-										   / __ )/ __ \/  _/ ___/_  __/ __ \/ | / /
-										  / __  / /_/ // / \__ \ / / / / / /  |/ /
-										 / /_/ / _, _// / ___/ // / / /_/ / /|  /
-										/_____/_/ |_/___//____//_/  \____/_/ |_/
-
-	Te rog un lucru,sa ai bunul simnt sa lasi aceste nume aici,indiferent cui dai GM-ul,gandeste-te ca am muncit foarte mult la el
- 					si fara noi nu te-ai fi bucurat de el.Acest mesaj il vezi doar tu pentru ca este un cometariu.
-					   Mr.Zeth(script) si Lightman(idei) au facut acest GM din suflet si au depus efort nespus,
-							 nu uita sa te gandesti ca te joci pe munca lor,nu-ti bate joc!
-												
-												Distractie placuta!
-==============================================================================================================*/
 #include <a_samp>
-//#include <AttachEx>
 #include <a_mysql>
 #include <saveaccounts>
 #include <zcmd>
@@ -41,7 +26,7 @@
 
 #define mysql_host "127.0.0.1"
 #define mysql_user "root"
-#define mysql_password "smekeru"
+#define mysql_password "!samp@pass"
 #define mysql_database "sampdb"
 
 
