@@ -1,0 +1,524 @@
+[10/07/2016] 17:38:31-: Formidable[1] [CMD] -> /upload 5
+[10/07/2016] 17:38:34-: Formidable[1] [CMD] -> /stats
+[10/07/2016] 17:38:45-: Formidable[1] [CMD] -> /admins
+[10/07/2016] 17:38:48-: BogdanWDK[0] [CMD] -> /sal
+[10/07/2016] 17:38:50-: BogdanWDK[0] [CMD] -> /makeadmin
+[10/07/2016] 17:38:51-: Formidable[1] [CMD] -> /admins
+[10/07/2016] 17:38:54-: BogdanWDK[0] [CMD] -> /sal 1 8
+[10/07/2016] 17:38:56-: BogdanWDK[0] [CMD] -> /sal 1 9
+[10/07/2016] 17:39:1-: Formidable[1] [CMD] -> /upload 5
+[10/07/2016] 17:39:29-: Formidable[1] [CMD] -> /casa 26
+[10/07/2016] 17:39:32-: Formidable[1] [CMD] -> /house 26
+[10/07/2016] 17:39:35-: BogdanWDK[0] [CMD] -> /tp Formi
+[10/07/2016] 17:40:59-: Formidable[1] [CMD] -> /car 596 1 1
+[10/07/2016] 17:41:10-: Formidable[1] [CMD] -> /help
+[10/07/2016] 17:41:16-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 17:41:23-: Formidable[1] [CMD] -> /cuf 0
+[10/07/2016] 17:41:25-: Formidable[1] [CMD] -> /help
+[10/07/2016] 17:41:29-: Formidable[1] [CMD] -> /cuff 0
+[10/07/2016] 17:41:38-: Formidable[1] [CMD] -> /factions
+[10/07/2016] 17:41:40-: BogdanWDK[0] [CMD] -> /makeleader 0 0
+[10/07/2016] 17:41:43-: Formidable[1] [CMD] -> /cuff 0
+[10/07/2016] 17:41:49-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:41:52-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 17:42:9-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:17-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 17:42:19-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 17:42:25-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:30-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:31-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:33-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:38-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:41-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:43-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:51-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:42:53-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:42:53-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:42:55-: BogdanWDK[0] [CMD] -> /opendoor
+[10/07/2016] 17:42:57-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:43:3-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:5-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:43:8-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:11-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:12-: BogdanWDK[0] [CMD] -> /tphere
+[10/07/2016] 17:43:16-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:18-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:20-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:22-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:23-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 17:43:31-: Formidable[1] [CMD] -> /cuff 0
+[10/07/2016] 17:43:37-: Formidable[1] [CMD] -> /drag
+[10/07/2016] 17:43:39-: Formidable[1] [CMD] -> /drag 0
+[10/07/2016] 17:43:43-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:43:48-: Formidable[1] [CMD] -> /taz 0
+[10/07/2016] 17:43:49-: Formidable[1] [CMD] -> /help
+[10/07/2016] 17:43:52-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:44:2-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:44:13-: Formidable[1] [CMD] -> /cuff 0
+[10/07/2016] 17:44:15-: Formidable[1] [CMD] -> /uncuff 0
+[10/07/2016] 17:44:22-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:44:24-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:44:28-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:44:29-: Formidable[1] [CMD] -> /tazer 0
+[10/07/2016] 17:45:31-: Formidable[1] [CMD] -> /so csf
+[10/07/2016] 17:45:34-: Formidable[1] [CMD] -> /m
+[10/07/2016] 17:45:36-: Formidable[1] [CMD] -> /m
+[10/07/2016] 17:45:43-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:46:37-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 17:47:42-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:47:44-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:48:18-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:49:1-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:49:5-: Formidable[1] [CMD] -> /kick 1
+[10/07/2016] 17:50:6-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 17:50:17-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:50:26-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 17:50:29-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 17:50:36-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:50:49-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:50:54-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:51:4-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:51:23-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:51:42-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:51:48-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:51:51-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:52:7-: Formidable[1] [CMD] -> /so
+[10/07/2016] 17:52:10-: Formidable[1] [CMD] -> /su
+[10/07/2016] 17:52:12-: Formidable[1] [CMD] -> /mute
+[10/07/2016] 17:52:16-: Formidable[1] [CMD] -> /m
+[10/07/2016] 17:52:35-: Formidable[1] [CMD] -> /m BogdanWDK trage pe dreapta sau primesti W3 neconformare ordin.
+[10/07/2016] 17:52:50-: Formidable[1] [CMD] -> /guv LSPD recruteaza.
+[10/07/2016] 17:52:56-: Formidable[1] [CMD] -> /gov LSPD recruteaza.
+[10/07/2016] 17:53:18-: Formidable[1] [CMD] -> /job
+[10/07/2016] 17:53:19-: Formidable[1] [CMD] -> /jobs
+[10/07/2016] 17:53:27-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:53:40-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:53:41-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:53:47-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:56:2-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:56:10-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 17:56:11-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 17:56:13-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 17:56:24-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:56:28-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:8-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:11-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:12-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:17-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:27-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:29-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:32-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 17:57:42-: BogdanWDK[0] [CMD] -> /wanted
+[10/07/2016] 17:57:43-: BogdanWDK[0] [CMD] -> /w
+[10/07/2016] 17:57:45-: BogdanWDK[0] [CMD] -> /w 0 0
+[10/07/2016] 17:57:48-: BogdanWDK[0] [CMD] -> /w 0 pa
+[10/07/2016] 17:57:50-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:57:50-: BogdanWDK[0] [CMD] -> /w 1 pa
+[10/07/2016] 17:57:54-: BogdanWDK[0] [CMD] -> /free
+[10/07/2016] 17:57:57-: BogdanWDK[0] [CMD] -> /we
+[10/07/2016] 17:58:0-: BogdanWDK[0] [CMD] -> /jail 0 0 0 
+[10/07/2016] 17:58:3-: BogdanWDK[0] [CMD] -> /tp Formi
+[10/07/2016] 17:58:6-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:58:6-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:58:17-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:58:27-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:58:39-: BogdanWDK[0] [CMD] -> /upload 3
+[10/07/2016] 17:59:2-: BogdanWDK[0] [CMD] -> /tp Formi
+[10/07/2016] 17:59:6-: BogdanWDK[0] [CMD] -> /so
+[10/07/2016] 17:59:9-: Formidable[1] [CMD] -> /so
+[10/07/2016] 17:59:18-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 17:59:26-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 17:59:29-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 17:59:34-: Formidable[1] [CMD] -> /so
+[10/07/2016] 17:59:35-: Formidable[1] [CMD] -> /so 0
+[10/07/2016] 17:59:53-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 17:59:54-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:0:1-: BogdanWDK[0] [CMD] -> /car 411 0 0
+[10/07/2016] 18:0:6-: Formidable[1] [CMD] -> /so 0
+[10/07/2016] 18:0:54-: Formidable[1] [CMD] -> /repair 0
+[10/07/2016] 18:1:0-: Formidable[1] [CMD] -> /job
+[10/07/2016] 18:1:1-: Formidable[1] [CMD] -> /jobs
+[10/07/2016] 18:1:4-: Formidable[1] [CMD] -> /paint
+[10/07/2016] 18:1:4-: BogdanWDK[0] [CMD] -> /jobs
+[10/07/2016] 18:1:5-: BogdanWDK[0] [CMD] -> /job
+[10/07/2016] 18:1:8-: BogdanWDK[0] [CMD] -> /jobhelp
+[10/07/2016] 18:1:10-: BogdanWDK[0] [CMD] -> /helpjob
+[10/07/2016] 18:1:20-: BogdanWDK[0] [CMD] -> /findjobs
+[10/07/2016] 18:1:22-: BogdanWDK[0] [CMD] -> /findjob
+[10/07/2016] 18:1:26-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:1:27-: BogdanWDK[0] [CMD] -> /repair
+[10/07/2016] 18:1:32-: BogdanWDK[0] [CMD] -> /arepair
+[10/07/2016] 18:1:33-: BogdanWDK[0] [CMD] -> /afix
+[10/07/2016] 18:1:45-: Formidable[1] [CMD] -> /cmd
+[10/07/2016] 18:1:50-: Formidable[1] [CMD] -> /wanted
+[10/07/2016] 18:3:27-: Formidable[1] [CMD] -> /car
+[10/07/2016] 18:3:31-: Formidable[1] [CMD] -> /car 599
+[10/07/2016] 18:3:33-: Formidable[1] [CMD] -> /car 599 1 1
+[10/07/2016] 18:4:12-: Formidable[1] [CMD] -> /help
+[10/07/2016] 18:4:15-: Formidable[1] [CMD] -> /badge
+[10/07/2016] 18:4:18-: Formidable[1] [CMD] -> /badge 0
+[10/07/2016] 18:4:20-: Formidable[1] [CMD] -> /badge 0
+[10/07/2016] 18:4:34-: BogdanWDK[0] [CMD] -> /upload 3
+[10/07/2016] 18:4:35-: Formidable[1] [CMD] -> /so 0
+[10/07/2016] 18:5:8-: BogdanWDK[0] [CMD] -> /weatherall 1
+[10/07/2016] 18:5:11-: BogdanWDK[0] [CMD] -> /tp Formi
+[10/07/2016] 18:5:13-: BogdanWDK[0] [CMD] -> /ls
+[10/07/2016] 18:5:17-: BogdanWDK[0] [CMD] -> /car 411 1 3
+[10/07/2016] 18:5:35-: BogdanWDK[0] [CMD] -> /arepair
+[10/07/2016] 18:5:38-: BogdanWDK[0] [CMD] -> /arepair
+[10/07/2016] 18:6:10-: BogdanWDK[0] [CMD] -> /arepair 0
+[10/07/2016] 18:6:13-: BogdanWDK[0] [CMD] -> /arepair
+[10/07/2016] 18:6:18-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:6:24-: Formidable[1] [CMD] -> /goto 0
+[10/07/2016] 18:6:28-: Formidable[1] [CMD] -> /gethere 0
+[10/07/2016] 18:7:5-: Formidable[1] [CMD] -> /so 0
+[10/07/2016] 18:7:21-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:7:36-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 18:7:38-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 18:7:46-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 18:7:48-: BogdanWDK[0] [CMD] -> /upload 5
+[10/07/2016] 18:8:13-: BogdanWDK[0] [CMD] -> /ls
+[10/07/2016] 18:8:16-: BogdanWDK[0] [CMD] -> /car 411 1 1
+[10/07/2016] 18:8:17-: BogdanWDK[0] [CMD] -> /afix
+[10/07/2016] 18:8:23-: BogdanWDK[0] [CMD] -> /so
+[10/07/2016] 18:8:25-: Formidable[1] [CMD] -> /find
+[10/07/2016] 18:8:27-: Formidable[1] [CMD] -> /find 0
+[10/07/2016] 18:9:6-: BogdanWDK[0] [CMD] -> /FIND 1
+[10/07/2016] 18:9:7-: BogdanWDK[0] [CMD] -> /find 1
+[10/07/2016] 18:9:17-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:9:24-: BogdanWDK[0] [CMD] -> /makeleader 1 7
+[10/07/2016] 18:9:27-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:9:28-: BogdanWDK[0] [CMD] -> /makeleader 0 7
+[10/07/2016] 18:9:30-: BogdanWDK[0] [CMD] -> /find 1
+[10/07/2016] 18:9:33-: BogdanWDK[0] [CMD] -> /makeleader 0 10
+[10/07/2016] 18:9:34-: Formidable[1] [CMD] -> /factions
+[10/07/2016] 18:9:35-: BogdanWDK[0] [CMD] -> /find 10
+[10/07/2016] 18:9:41-: BogdanWDK[0] [CMD] -> /find 1
+[10/07/2016] 18:9:43-: BogdanWDK[0] [CMD] -> /find 0
+[10/07/2016] 18:9:45-: BogdanWDK[0] [CMD] -> /makeleader 0 0
+[10/07/2016] 18:10:5-: Formidable[1] [CMD] -> /makeleader 1 1
+[10/07/2016] 18:10:7-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:10:13-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 18:10:21-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 18:10:24-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:10:30-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:10:32-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:10:34-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:10:53-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:10:55-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:11:37-: BogdanWDK[0] [CMD] -> /upload 5
+[10/07/2016] 18:12:1-: BogdanWDK[0] [CMD] -> /ls
+[10/07/2016] 18:12:4-: BogdanWDK[0] [CMD] -> /car 411 1 1
+[10/07/2016] 18:12:4-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:12:5-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:12:21-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:12:37-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:12:44-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 18:12:44-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:12:46-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 18:12:55-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:12:58-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:12:59-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:13:0-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:13:8-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:13:11-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:13:17-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:13:18-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:13:23-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:13:29-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:13:33-: BogdanWDK[0] [CMD] -> /finvite
+[10/07/2016] 18:13:40-: BogdanWDK[0] [CMD] -> /invite
+[10/07/2016] 18:13:43-: BogdanWDK[0] [CMD] -> /invie 0
+[10/07/2016] 18:13:44-: BogdanWDK[0] [CMD] -> /invite 0
+[10/07/2016] 18:13:48-: BogdanWDK[0] [CMD] -> /opendoor
+[10/07/2016] 18:13:50-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:13:52-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:13:55-: BogdanWDK[0] [CMD] -> /closegate
+[10/07/2016] 18:14:8-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:14:11-: Formidable[1] [CMD] -> /invite 0
+[10/07/2016] 18:14:13-: BogdanWDK[0] [CMD] -> /buylicenses
+[10/07/2016] 18:14:15-: Formidable[1] [CMD] -> /factions
+[10/07/2016] 18:14:16-: BogdanWDK[0] [CMD] -> /accept invite
+[10/07/2016] 18:14:23-: Formidable[1] [CMD] -> /makecoleader 0
+[10/07/2016] 18:14:30-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:14:41-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:14:49-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:14:51-: Formidable[1] [CMD] -> /duty
+[10/07/2016] 18:14:53-: Formidable[1] [CMD] -> /equip
+[10/07/2016] 18:14:55-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:14:57-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:15:1-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:15:5-: BogdanWDK[0] [CMD] -> /opengate
+[10/07/2016] 18:15:13-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:15:15-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:15:20-: Formidable[1] [CMD] -> /opengate
+[10/07/2016] 18:16:2-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:16:25-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:16:39-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:16:43-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:16:48-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:17:9-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:17:14-: Formidable[1] [CMD] -> /we
+[10/07/2016] 18:17:17-: Formidable[1] [CMD] -> /we 38 50000
+[10/07/2016] 18:17:21-: Formidable[1] [CMD] -> /we 1 38 50000
+[10/07/2016] 18:17:24-: Formidable[1] [CMD] -> /we 1 38 500
+[10/07/2016] 18:17:26-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:17:36-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:17:45-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:17:50-: BogdanWDK[0] [CMD] -> /call 112
+[10/07/2016] 18:17:55-: Formidable[1] [CMD] -> /call 112
+[10/07/2016] 18:18:2-: Formidable[1] [CMD] -> /hangup
+[10/07/2016] 18:18:7-: Formidable[1] [CMD] -> /call 112
+[10/07/2016] 18:18:8-: BogdanWDK[0] [CMD] -> /call 112
+[10/07/2016] 18:18:39-: BogdanWDK[0] [CMD] -> /call 112
+[10/07/2016] 18:19:0-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:19:9-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:19:15-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:19:20-: BogdanWDK[0] [CMD] -> /car 411 1 3
+[10/07/2016] 18:19:33-: BogdanWDK[0] [CMD] -> /car 412 2 2
+[10/07/2016] 18:19:49-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:19:53-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:20:7-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:20:27-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:20:29-: BogdanWDK[0] [CMD] -> /car 455 1 1
+[10/07/2016] 18:20:48-: BogdanWDK[0] [CMD] -> /car 456 1 1
+[10/07/2016] 18:21:3-: Formidable[1] [CMD] -> /takejob
+[10/07/2016] 18:21:7-: BogdanWDK[0] [CMD] -> /car 492 1 1
+[10/07/2016] 18:21:27-: Formidable[1] [CMD] -> /takejob 2
+[10/07/2016] 18:21:28-: BogdanWDK[0] [CMD] -> /takejob
+[10/07/2016] 18:21:33-: BogdanWDK[0] [CMD] -> /finx 1
+[10/07/2016] 18:21:34-: BogdanWDK[0] [CMD] -> /find 1
+[10/07/2016] 18:21:58-: BogdanWDK[0] [CMD] -> /find 1
+[10/07/2016] 18:22:6-: BogdanWDK[0] [CMD] -> /killcp
+[10/07/2016] 18:22:8-: BogdanWDK[0] [CMD] -> /gps
+[10/07/2016] 18:22:10-: BogdanWDK[0] [CMD] -> /gps 0 0
+[10/07/2016] 18:22:24-: BogdanWDK[0] [CMD] -> /quitjob
+[10/07/2016] 18:22:26-: BogdanWDK[0] [CMD] -> /takejob
+[10/07/2016] 18:22:42-: BogdanWDK[0] [CMD] -> /car 411 205 226
+[10/07/2016] 18:22:51-: Formidable[1] [CMD] -> /nos
+[10/07/2016] 18:22:52-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:23:31-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:23:51-: Formidable[1] [CMD] -> /slap 0
+[10/07/2016] 18:23:56-: Formidable[1] [CMD] -> /slap 0
+[10/07/2016] 18:24:43-: Formidable[1] [CMD] -> /we 1 32 900
+[10/07/2016] 18:25:0-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:25:48-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:26:15-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:26:51-: BogdanWDK[0] [CMD] -> /skill
+[10/07/2016] 18:26:58-: BogdanWDK[0] [CMD] -> /skill 2
+[10/07/2016] 18:27:4-: BogdanWDK[0] [CMD] -> /jobskill
+[10/07/2016] 18:27:5-: BogdanWDK[0] [CMD] -> /skilljob
+[10/07/2016] 18:27:25-: BogdanWDK[0] [CMD] -> /car 411 205 226
+[10/07/2016] 18:27:32-: Formidable[1] [CMD] -> /stats
+[10/07/2016] 18:27:33-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:27:52-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:27:58-: BogdanWDK[0] [CMD] -> /fix car
+[10/07/2016] 18:28:2-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:28:22-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:28:37-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:28:40-: BogdanWDK[0] [CMD] -> /car 411 205 226
+[10/07/2016] 18:29:1-: BogdanWDK[0] [CMD] -> /we
+[10/07/2016] 18:29:7-: BogdanWDK[0] [CMD] -> /we 0 30 300
+[10/07/2016] 18:29:16-: BogdanWDK[0] [CMD] -> /car 411 205 209
+[10/07/2016] 18:29:19-: BogdanWDK[0] [CMD] -> /vcolor
+[10/07/2016] 18:30:8-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:30:35-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:30:56-: Formidable[1] [CMD] -> /slap
+[10/07/2016] 18:30:57-: BogdanWDK[0] [CMD] -> /car 411 209 255
+[10/07/2016] 18:30:58-: Formidable[1] [CMD] -> /slap 0
+[10/07/2016] 18:31:19-: Formidable[1] [CMD] -> /admins
+[10/07/2016] 18:31:22-: BogdanWDK[0] [CMD] -> /n as
+[10/07/2016] 18:31:36-: Formidable[1] [CMD] -> /n asta e chat pentru helperi noobule
+[10/07/2016] 18:31:38-: Formidable[1] [CMD] -> /a pe asta
+[10/07/2016] 18:31:44-: Formidable[1] [CMD] -> /a /a
+[10/07/2016] 18:31:46-: BogdanWDK[0] [CMD] -> /a te
+[10/07/2016] 18:31:55-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:32:18-: Formidable[1] [CMD] -> /tagekob
+[10/07/2016] 18:32:20-: Formidable[1] [CMD] -> /takejob
+[10/07/2016] 18:32:27-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:32:31-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:32:41-: Formidable[1] [CMD] -> /we 1 29 500
+[10/07/2016] 18:32:49-: Formidable[1] [CMD] -> /repair 0
+[10/07/2016] 18:32:51-: Formidable[1] [CMD] -> /repair 0 1
+[10/07/2016] 18:32:55-: Formidable[1] [CMD] -> /repair 0 1
+[10/07/2016] 18:33:1-: Formidable[1] [CMD] -> /repair 0 100
+[10/07/2016] 18:33:10-: Formidable[1] [CMD] -> /repair 0 100
+[10/07/2016] 18:33:16-: Formidable[1] [CMD] -> /repair bogdanwdk 100
+[10/07/2016] 18:33:18-: BogdanWDK[0] [CMD] -> /f
+[10/07/2016] 18:33:19-: BogdanWDK[0] [CMD] -> /f leave
+[10/07/2016] 18:33:25-: Formidable[1] [CMD] -> /uninvite 0
+[10/07/2016] 18:33:30-: BogdanWDK[0] [CMD] -> /tp Formi
+[10/07/2016] 18:33:30-: Formidable[1] [CMD] -> /gethere 0
+[10/07/2016] 18:33:37-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:33:37-: Formidable[1] [CMD] -> /repair bogdanwdk 100
+[10/07/2016] 18:33:50-: Formidable[1] [CMD] -> /repair bogdanwdk 100
+[10/07/2016] 18:33:56-: Formidable[1] [CMD] -> /repair 0 10000
+[10/07/2016] 18:34:5-: Formidable[1] [CMD] -> /r 0 1
+[10/07/2016] 18:34:11-: Formidable[1] [CMD] -> /r csf
+[10/07/2016] 18:34:13-: BogdanWDK[0] [CMD] -> /car 411 105 107
+[10/07/2016] 18:34:16-: Formidable[1] [CMD] -> /r abuz de functie
+[10/07/2016] 18:34:22-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:35:8-: Formidable[1] [CMD] -> /slap 0
+[10/07/2016] 18:35:12-: Formidable[1] [CMD] -> /spec 0
+[10/07/2016] 18:35:20-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:35:23-: Formidable[1] [CMD] -> /unspec
+[10/07/2016] 18:35:28-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:35:32-: Formidable[1] [CMD] -> /endspec
+[10/07/2016] 18:35:37-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:35:39-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:35:43-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:35:44-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:35:44-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:36:26-: Formidable[1] [CMD] -> /pcolor
+[10/07/2016] 18:36:28-: Formidable[1] [CMD] -> /color
+[10/07/2016] 18:36:29-: Formidable[1] [CMD] -> /c
+[10/07/2016] 18:36:34-: Formidable[1] [CMD] -> /c cacao
+[10/07/2016] 18:36:49-: Formidable[1] [CMD] -> /f csf
+[10/07/2016] 18:37:0-: Formidable[1] [CMD] -> /leavepaint
+[10/07/2016] 18:37:3-: Formidable[1] [CMD] -> /call 112
+[10/07/2016] 18:37:45-: Formidable[1] [CMD] -> /slap 0
+[10/07/2016] 18:37:46-: Formidable[1] [CMD] -> /slap 1
+[10/07/2016] 18:37:47-: BogdanWDK[0] [CMD] -> /flip
+[10/07/2016] 18:37:57-: BogdanWDK[0] [CMD] -> /car 411 101 102
+[10/07/2016] 18:38:0-: Formidable[1] [CMD] -> /car 411 154
+[10/07/2016] 18:38:1-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:38:2-: Formidable[1] [CMD] -> /car 411 154 195
+[10/07/2016] 18:38:10-: Formidable[1] [CMD] -> /nos
+[10/07/2016] 18:38:37-: Formidable[1] [CMD] -> /repair
+[10/07/2016] 18:39:42-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:39:42-: Formidable[1] [CMD] -> /fixcar
+[10/07/2016] 18:40:20-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:40:32-: Formidable[1] [CMD] -> /fixcar
+[10/07/2016] 18:40:34-: BogdanWDK[0] [CMD] -> /fixcar
+[10/07/2016] 18:40:35-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:41:9-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:41:40-: BogdanWDK[0] [CMD] -> /ls
+[10/07/2016] 18:42:28-: BogdanWDK[0] [CMD] -> /sf
+[10/07/2016] 18:42:42-: BogdanWDK[0] [CMD] -> /gps
+[10/07/2016] 18:43:17-: BogdanWDK[0] [CMD] -> /gps 0 0
+[10/07/2016] 18:43:18-: Formidable[1] [CMD] -> /number
+[10/07/2016] 18:43:22-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:43:29-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:43:38-: Formidable[1] [CMD] -> /buycar
+[10/07/2016] 18:43:41-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:43:42-: BogdanWDK[0] [CMD] -> /money
+[10/07/2016] 18:43:45-: Formidable[1] [CMD] -> /setstat
+[10/07/2016] 18:43:52-: BogdanWDK[0] [CMD] -> /money 0 25000000
+[10/07/2016] 18:43:54-: BogdanWDK[0] [CMD] -> /buycar
+[10/07/2016] 18:43:58-: Formidable[1] [CMD] -> /setstat 1 4 100000000
+[10/07/2016] 18:44:0-: Formidable[1] [CMD] -> /buycar
+[10/07/2016] 18:44:9-: Formidable[1] [CMD] -> /towcar
+[10/07/2016] 18:44:27-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:44:27-: BogdanWDK[0] [CMD] -> /tphere 1
+[10/07/2016] 18:44:41-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:44:51-: Formidable[1] [CMD] -> /nos
+[10/07/2016] 18:44:54-: BogdanWDK[0] [CMD] -> /nos
+[10/07/2016] 18:46:14-: Formidable[1] [CMD] -> /refill
+[10/07/2016] 18:49:13-: Formidable[1] [CMD] -> /sf
+[10/07/2016] 18:49:53-: Formidable[1] [CMD] -> /car 411 1 1
+[10/07/2016] 18:50:33-: Formidable[1] [CMD] -> /nos
+[10/07/2016] 18:50:39-: Formidable[1] [CMD] -> /fixcar
+[10/07/2016] 18:50:51-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:50:52-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:50:53-: Formidable[1] [CMD] -> /sf
+[10/07/2016] 18:50:54-: Formidable[1] [CMD] -> /lv
+[10/07/2016] 18:50:55-: Formidable[1] [CMD] -> /fuck
+[10/07/2016] 18:51:4-: Formidable[1] [CMD] -> /amek
+[10/07/2016] 18:51:5-: Formidable[1] [CMD] -> /make
+[10/07/2016] 18:51:16-: Formidable[1] [CMD] -> /stats
+[10/07/2016] 18:51:21-: Formidable[1] [CMD] -> /factions
+[10/07/2016] 18:51:39-: Formidable[1] [CMD] -> /makeleader
+[10/07/2016] 18:51:46-: Formidable[1] [CMD] -> /makeadmin
+[10/07/2016] 18:51:50-: Formidable[1] [CMD] -> /admin
+[10/07/2016] 18:51:52-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:51:58-: Formidable[1] [CMD] -> /ls
+[10/07/2016] 18:53:28-: Formidable[1] [CMD] -> /makeadmin
+[10/07/2016] 18:53:31-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:53:45-: Formidable[1] [CMD] -> /freeze
+[10/07/2016] 18:53:47-: Formidable[1] [CMD] -> /freeze 0
+[10/07/2016] 18:53:53-: Formidable[1] [CMD] -> /id
+[10/07/2016] 18:53:55-: Formidable[1] [CMD] -> /id bog
+[10/07/2016] 18:54:13-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:54:17-: Formidable[1] [CMD] -> /setarmour
+[10/07/2016] 18:54:22-: Formidable[1] [CMD] -> /setarmour 0 900
+[10/07/2016] 18:54:26-: Formidable[1] [CMD] -> /setarmour 1 900
+[10/07/2016] 18:54:31-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:54:35-: Formidable[1] [CMD] -> /ha
+[10/07/2016] 18:54:38-: Formidable[1] [CMD] -> /ha servus
+[10/07/2016] 18:54:46-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:54:56-: Formidable[1] [CMD] -> /aduty
+[10/07/2016] 18:55:4-: Formidable[1] [CMD] -> /aduty
+[10/07/2016] 18:55:17-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:55:43-: Formidable[1] [CMD] -> /makevip
+[10/07/2016] 18:55:48-: Formidable[1] [CMD] -> /makevip 1 max
+[10/07/2016] 18:55:51-: Formidable[1] [CMD] -> /makevip 1 9
+[10/07/2016] 18:55:59-: Formidable[1] [CMD] -> /makevip 1 6
+[10/07/2016] 18:56:3-: Formidable[1] [CMD] -> /vip
+[10/07/2016] 18:56:5-: Formidable[1] [CMD] -> /vip s
+[10/07/2016] 18:56:9-: Formidable[1] [CMD] -> /makevip 1 0
+[10/07/2016] 18:56:12-: Formidable[1] [CMD] -> /makevip 1 
+[10/07/2016] 18:56:16-: Formidable[1] [CMD] -> /stats
+[10/07/2016] 18:57:1-: Formidable[1] [CMD] -> /vip
+[10/07/2016] 18:57:3-: Formidable[1] [CMD] -> /vip x
+[10/07/2016] 18:57:24-: Formidable[1] [CMD] -> /vh
+[10/07/2016] 18:57:27-: Formidable[1] [CMD] -> /help
+[10/07/2016] 18:57:33-: Formidable[1] [CMD] -> /tp 0
+[10/07/2016] 18:58:1-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 18:58:54-: Formidable[1] [CMD] -> /payday
+[10/07/2016] 18:59:21-: Formidable[1] [CMD] -> /ah
+[10/07/2016] 19:0:11-: Formidable[1] [CMD] -> /aduty
+[10/07/2016] 19:0:15-: Formidable[1] [CMD] -> /ah
+[11/07/2016] 2:1:30-: BogdanWDK[0] [CMD] -> /upload 3
+[11/07/2016] 2:13:28-: BogdanWDK[0] [CMD] -> /upload 5
+[11/07/2016] 2:15:53-: BogdanWDK[0] [CMD] -> /buy
+[11/07/2016] 2:16:1-: BogdanWDK[0] [CMD] -> /money 0 5000
+[11/07/2016] 2:16:2-: BogdanWDK[0] [CMD] -> /buy
+[11/07/2016] 2:16:10-: BogdanWDK[0] [CMD] -> /money 5000
+[11/07/2016] 2:16:13-: BogdanWDK[0] [CMD] -> /money 0 5000
+[11/07/2016] 2:16:14-: BogdanWDK[0] [CMD] -> /buy
+[11/07/2016] 2:16:19-: BogdanWDK[0] [CMD] -> /iphone
+[11/07/2016] 2:16:39-: BogdanWDK[0] [CMD] -> /iphone
+[11/07/2016] 2:18:14-: BogdanWDK[0] [CMD] -> /iphone
+[11/07/2016] 2:18:17-: BogdanWDK[0] [CMD] -> /sal 0 0
+[11/07/2016] 2:18:18-: BogdanWDK[0] [CMD] -> /iphone
+[11/07/2016] 2:18:30-: BogdanWDK[0] [CMD] -> /sal 0 8
+[11/07/2016] 2:18:33-: BogdanWDK[0] [CMD] -> /iphone
+[11/07/2016] 2:18:45-: BogdanWDK[0] [CMD] -> /delbiz
+[11/07/2016] 2:18:48-: BogdanWDK[0] [CMD] -> /deletebiz
+[11/07/2016] 2:18:50-: BogdanWDK[0] [CMD] -> /removebix
+[11/07/2016] 2:18:52-: BogdanWDK[0] [CMD] -> /removebiz
+[11/07/2016] 2:18:54-: BogdanWDK[0] [CMD] -> /unbiz
+[11/07/2016] 2:18:56-: BogdanWDK[0] [CMD] -> /setbiz
+[11/07/2016] 2:18:58-: BogdanWDK[0] [CMD] -> /getbiz
+[11/07/2016] 2:19:0-: BogdanWDK[0] [CMD] -> /movebiz
+[11/07/2016] 15:10:27-: Formidable[0] [CMD] -> /duty
+[11/07/2016] 15:10:31-: Formidable[0] [CMD] -> /car 411 205 205
+[11/07/2016] 15:10:56-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:11:17-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:11:22-: Formidable[0] [CMD] -> /duty
+[11/07/2016] 15:11:24-: Formidable[0] [CMD] -> /equip
+[11/07/2016] 15:11:33-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:11:34-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:11:49-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:11:59-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:12:43-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:12:50-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:13:1-: Formidable[0] [CMD] -> /wanted
+[11/07/2016] 15:13:6-: Formidable[0] [CMD] -> /so
+[11/07/2016] 15:13:8-: Formidable[0] [CMD] -> /so 0
+[11/07/2016] 15:13:22-: Formidable[0] [CMD] -> /cuff 0
+[11/07/2016] 15:15:40-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:15:51-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:16:4-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:16:19-: Formidable[0] [CMD] -> /ls
+[11/07/2016] 15:16:25-: Formidable[0] [CMD] -> /duty
+[11/07/2016] 15:16:29-: Formidable[0] [CMD] -> /duty of
+[11/07/2016] 15:16:31-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:16:37-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:17:21-: Formidable[0] [CMD] -> /opengat
+[11/07/2016] 15:17:22-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:17:40-: Formidable[0] [CMD] -> /opengate
+[11/07/2016] 15:18:25-: Formidable[0] [CMD] -> /mygift
+[11/07/2016] 15:19:24-: Formidable[0] [CMD] -> /fixcar
+[11/07/2016] 15:21:43-: Formidable[0] [CMD] -> /buygun
+[11/07/2016] 15:21:55-: Formidable[0] [CMD] -> /buygun
